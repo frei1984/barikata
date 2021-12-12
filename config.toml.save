@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "ja-jp"
-title = "ラーメンマン"
-theme = "hugo-cards"
