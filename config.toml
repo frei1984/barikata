@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://frei1984.github.io/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -66,7 +66,3 @@ googleAnalytics = ""
   gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
-
-
-publishDir = "docs"
-canonifyurls = true
