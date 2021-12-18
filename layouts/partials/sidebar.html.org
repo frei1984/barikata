@@ -21,6 +21,3 @@
     </div>
   </div>
 </div>
-
-<!-- Adsense -->
-{{ partial "google/adsense" . }}
