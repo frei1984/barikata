@@ -1,9 +1,9 @@
 +++
 draft = false
-image = ""
+image = "img/portfolio/ichimi_20180425.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+title = "一味 久留米市"
 weight = 4
 +++
 

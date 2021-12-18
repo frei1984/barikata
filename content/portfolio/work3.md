@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/shibaraku_20190616.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "しばらく 福岡市"
 draft = false
 weight = 2
 +++
