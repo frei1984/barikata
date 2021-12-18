@@ -1,4 +1,4 @@
-baseurl = "https://frei1984.github.io/ramenman/"
+baseurl = "https://ramenman.netlify.app"
 title = "ラーメンマン"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
