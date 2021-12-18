@@ -11,12 +11,11 @@ google_ad= "ca-pub-4904382958398754"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
+  style = "violet"
+  description = "ラーメン大好き、ラーメンマンのサイトです。"
   copyright = "&copy;2021 ramenman"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "福岡のとんこつラーメンを紹介するサイトです。",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -43,16 +42,16 @@ google_ad= "ca-pub-4904382958398754"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "ホーム"
   url = "portfolio/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "このサイトについて"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "お問い合わせ"
   url = "contact/"
 
   [params.social]
