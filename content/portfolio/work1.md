@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/tatsunoya_20190117.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "龍の家 久留米市"
 weight = 0
 +++
 
