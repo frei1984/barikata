@@ -12,8 +12,8 @@ google_ad= "ca-pub-4904382958398754"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "ラーメン大好き、ラーメンマンのサイトです。"
-  copyright = "&copy;2021 ramenman"
+  description = "福岡のラーメンが大好き方に向けたサイトです。"
+  copyright = "&copy;2021 barikata"
   sidebarAbout = [
     "福岡のとんこつラーメンを紹介するサイトです。",
   ]
