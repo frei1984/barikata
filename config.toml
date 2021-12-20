@@ -1,5 +1,5 @@
-baseurl = "https://ramenman.netlify.app"
-title = "ラーメンマン 福岡のラーメンが大好きな方へ - ラーメン情報サイト"
+baseurl = "https://barikata.netlify.app"
+title = "バリカタ！ 福岡のラーメンが大好きな方へ - ラーメン情報サイト"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
